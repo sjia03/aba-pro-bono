@@ -1,5 +1,7 @@
 # aba-pro-bono
 
-* Datafest 2023: Placed in top 15 out of 80 teams
+* Datafest 2023
 * Collaborators: Stella Jia, Jessie Zhou, Grant Cai, Siddharth Chattoraj, and Henry Ma
-* Purpose: Gain insight into client and attorney behavior on the American Bar Association's (ABA) free legal help platform
+* Placed in top 15 out of 80 teams
+
+Using data provided by the American Bar Association (ABA), we provided insights into client and attorney behavior to inform future steps on improving the ABA's free legal help platform.
